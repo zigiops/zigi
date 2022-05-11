@@ -1,3 +1,0 @@
-# Hiro Tamada
-from JAPAN
-
