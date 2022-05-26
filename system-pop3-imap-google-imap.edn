@@ -1,0 +1,1 @@
+{:id "47494200-3636-11ec-b372-03c41045485c", :delegate :pop3-imap, :system {:password {:type :encrypted, :val "jvgMcFqNx+bKmDJYI42pXA=="}, :protocol-type "imap", :name "google-imap", :username "zigiwavetest@gmail.com", :instance-type "service", :secure-connection "ssl-tls", :status :error, :url "imap.gmail.com:993"}}
