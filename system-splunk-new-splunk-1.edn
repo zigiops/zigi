@@ -1,0 +1,1 @@
+{:id "20fb7bc0-eae3-11eb-8583-f38a5f86fd8a", :delegate :splunk, :system {:name "new-splunk-1", :url "https://vtsplunk01.zigiwave.lab:8089", :proxy {:active? true, :host "localhost", :port 8888}, :username "admin", :password {:type :encrypted, :val "vYdhDtSLHTpAIdjxiPmOLA=="}, :api-token "4c54914e-e46a-41ee-ab6c-a3048d7434b2"}}
